@@ -1,3 +1,5 @@
 foo1 new msg by user1
 
 feature Ticket 1 by ravi
+
+feature Ticket 2 by user2
